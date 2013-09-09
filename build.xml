@@ -25,7 +25,7 @@
 	        description="clean up" >
 	    <!-- Delete the ${build} and ${dist} directory trees -->
 	    <delete dir="${build}"/>
-            <delete file="WPMConnector.jar"/>
+            <delete file="morphr-am.jar"/>
 	  </target>
 	
 	
