@@ -1,17 +1,15 @@
 abort.
 
-numNodes: continuous.
-memory: ignore.
+memory: continuous.
 readsPerRO: continuous.
 readsPerWr: continuous.
 putsPerWr: continuous.
-localServiceTimeROXact: continuous.
 localServiceTimeWrXact: continuous.
-numKeys: continuous.
-replicationDegree: continuous.
 sizeRemoteGetReplyMsg: continuous.
 sizePrepareMsg: continuous.
 writePercentageXact: continuous.
+numNodes: continuous.
+replicationDegree: continuous.
 abort: continuous.
 
 
